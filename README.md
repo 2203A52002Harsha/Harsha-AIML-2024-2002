@@ -25,3 +25,5 @@
 # AIML-2024
 [LAB-09](https://github.com/2203A52002Harsha/Harsha-AIML-2024-2002.git)
 
+# AIML-2024
+[LB-10](https://github.com/2203A52002Harsha/Harsha-AIML-2024-2002.git)
